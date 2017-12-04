@@ -1,13 +1,15 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
 nameSpace test
 {
-   Class Program
+   class Program
    {
-      public static void Main()
+      static void Main(string[] args)
       {
          Console.WriteLine("aaaaa");
-        
       }
    }
-
 }
